@@ -418,7 +418,7 @@ body {
 }
 .note{
   position: absolute;
-  top: 250px;
-  right: 130px;
-  height: 0vh;
+  top: 0px;
+  right: 0px;
+  height: 100vh;
 }
